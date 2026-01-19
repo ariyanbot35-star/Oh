@@ -1,0 +1,12 @@
+{
+  "name": "unitool-midjourney-fly",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^22.0.0"
+  }
+}
